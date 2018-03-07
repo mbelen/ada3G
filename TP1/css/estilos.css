@@ -1,0 +1,64 @@
+body{
+	margin-left: 70;
+	font-family: arial;
+}
+#encabezado{
+	width: 58em;
+	float:right;
+}
+#navegador a{
+	font-size: 11;
+	font-weight: 700;/*negrita*/
+}
+.barra{
+	color: grey;
+}
+a{
+	color: #0075c4;
+}	
+h1{
+	font-family: georgia;
+	font-size: 33;
+}
+#edificio1{
+	width: 55em;
+}
+#epigrafe1, #epigrafe2{
+	font-family: arial;
+} 
+#epigrafe1{
+	font-size: 14.8;
+	width: 49em; 
+	margin-top: 0;
+	margin-left: 15;
+}
+#contenido p,img{ 
+	width: 39em; 
+}
+#contenido{
+	margin-top: 50;
+	margin-bottom: 30;
+}
+#fecha{
+	color: grey;
+	font-size: 13;
+}
+#letraCapital{
+	font-size: 70;
+	font-weight: 700;/*negrita*/
+	float: left;
+	line-height:60px;
+	margin: 15 8 8 1;
+}
+p{
+	font-family: georgia;
+	line-height: 1.7em;
+	font-size: 15;
+	margin-top: 25px;
+}
+#epigrafe2{
+	font-size: 12.5;
+	width:49em;
+	margin-top: 10;
+}
+
